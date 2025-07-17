@@ -4,12 +4,7 @@
     "\\archetypes",
     "\\content",
     "\\content\\notes",
-    "\\content\\posts",
-    "\\themes\\hugo-theme-til",
-    "\\themes\\hugo-theme-til\\assets\\ts",
-    "\\themes\\hugo-theme-til\\assets\\ts\\lib",
-    "\\themes\\hugo-theme-til\\data\\til"
+    "\\content\\posts"
   ],
-  "SelectedNode": "\\content\\posts\\TestPost1.md",
   "PreviewInSolutionExplorer": false
 }

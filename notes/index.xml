@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes on Lelah&#39;s Blog</title>
-    <link>https://example.com/notes/</link>
+    <link>https://lelahandco.github.io/notes/</link>
     <description>Recent content in Notes on Lelah&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
@@ -10,12 +10,12 @@
     <webMaster>lvanEijnsbergen@outlook.com (Lelah van Eijnsbergen)</webMaster>
     <copyright>Lelah van Eijnsbergen</copyright>
     <lastBuildDate>Thu, 17 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/notes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lelahandco.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test note</title>
-      <link>https://example.com/notes/testnote1/</link>
+      <link>https://lelahandco.github.io/notes/testnote1/</link>
       <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate><author>lvanEijnsbergen@outlook.com (Lelah van Eijnsbergen)</author>
-      <guid>https://example.com/notes/testnote1/</guid>
+      <guid>https://lelahandco.github.io/notes/testnote1/</guid>
       <description>&lt;p&gt;this is a test note&lt;/p&gt;</description>
     </item>
   </channel>

@@ -9,14 +9,7 @@
     <managingEditor>lvanEijnsbergen@outlook.com (Lelah van Eijnsbergen)</managingEditor>
     <webMaster>lvanEijnsbergen@outlook.com (Lelah van Eijnsbergen)</webMaster>
     <copyright>Lelah van Eijnsbergen</copyright>
-    <lastBuildDate>Thu, 17 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="https://lelahandco.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test note</title>
-      <link>https://lelahandco.github.io/posts/testpost1/</link>
-      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate><author>lvanEijnsbergen@outlook.com (Lelah van Eijnsbergen)</author>
-      <guid>https://lelahandco.github.io/posts/testpost1/</guid>
-      <description>&lt;p&gt;this is a test post&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>

@@ -1,24 +1,15 @@
 {
   "graph": {
-    "/notes/testnote1/": {
-      "in": [],
-      "out": []
-    },
-    "/posts/testpost1/": {
+    "/notes/hello-world/": {
       "in": [],
       "out": []
     }
   },
   "pages": {
-    "/notes/testnote1/": {
-      "permalink": "/notes/testnote1/",
+    "/notes/hello-world/": {
+      "permalink": "/notes/hello-world/",
       "section": "notes",
-      "title": "Test Note"
-    },
-    "/posts/testpost1/": {
-      "permalink": "/posts/testpost1/",
-      "section": "posts",
-      "title": "Test Note"
+      "title": "Hello World"
     }
   }
 }

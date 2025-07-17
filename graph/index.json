@@ -14,7 +14,11 @@
       ],
       "out": []
     },
-    "/posts/quick-post/": {
+    "/posts/another-post/": {
+      "in": [],
+      "out": []
+    },
+    "/posts/kaida-image/": {
       "in": [],
       "out": []
     }
@@ -30,10 +34,15 @@
       "section": "notes",
       "title": "Hello World"
     },
-    "/posts/quick-post/": {
-      "permalink": "/posts/quick-post/",
+    "/posts/another-post/": {
+      "permalink": "/posts/another-post/",
       "section": "posts",
-      "title": "Quick Post"
+      "title": "Slof Image"
+    },
+    "/posts/kaida-image/": {
+      "permalink": "/posts/kaida-image/",
+      "section": "posts",
+      "title": "Kaida Image"
     }
   }
 }

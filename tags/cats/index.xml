@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Lelah&#39;s Blog</title>
-    <link>https://lelahandco.github.io/posts/</link>
-    <description>Recent content in Posts on Lelah&#39;s Blog</description>
+    <title>Cats on Lelah&#39;s Blog</title>
+    <link>https://lelahandco.github.io/tags/cats/</link>
+    <description>Recent content in Cats on Lelah&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>lvanEijnsbergen@outlook.com (Lelah van Eijnsbergen)</managingEditor>
     <webMaster>lvanEijnsbergen@outlook.com (Lelah van Eijnsbergen)</webMaster>
     <copyright>Lelah van Eijnsbergen</copyright>
     <lastBuildDate>Thu, 17 Jul 2025 23:11:00 +0200</lastBuildDate>
-    <atom:link href="https://lelahandco.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lelahandco.github.io/tags/cats/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>slof image</title>
       <link>https://lelahandco.github.io/posts/another-post/</link>

@@ -8,21 +8,31 @@
 <meta name="language" content="en" />
 <meta name="viewport" content="width=device-width" />
 <title>
-    Templates | Lelah&#39;s Blog
+     | Lelah&#39;s Blog
 </title>
-<meta property="og:url" content="https://lelahandco.github.io/templates/">
+  <meta name="description" content="&lt;%* function toSlug(title) { return title .toLowerCase() .normalize(“NFD”) .replace(/[\u0300-\u036f]/g, “”) .replace(/[^a-z0-9\s-]/g, “”) .trim() .replace(/\s&#43;/g, “-”); }
+let qcFileName = await tp.system.prompt(“Post Title”) let titleName = toSlug(qcFileName); await tp.file.rename (titleName); await tp.file.move(&#34;/notes/&#34; &#43; titleName “/index”); await this.app.vault.createFolder(&#34;/notes/&#34; &#43; titleName &#43; “/images”); -%&gt; title: &lt;% qcFileName %&gt; date: &lt;% tp.file.creation_date(“YYYY-MM-DDTHH:mm:ssZ”) %&gt; draft: false tags: [] " />
+<meta property="og:url" content="https://lelahandco.github.io/templates/note-template/">
   <meta property="og:site_name" content="Lelah&#39;s Blog">
-  <meta property="og:title" content="Templates">
+  <meta property="og:title" content="Lelah&#39;s Blog">
+  <meta property="og:description" content="&lt;%* function toSlug(title) { return title .toLowerCase() .normalize(“NFD”) .replace(/[\u0300-\u036f]/g, “”) .replace(/[^a-z0-9\s-]/g, “”) .trim() .replace(/\s&#43;/g, “-”); }
+let qcFileName = await tp.system.prompt(“Post Title”) let titleName = toSlug(qcFileName); await tp.file.rename (titleName); await tp.file.move(&#34;/notes/&#34; &#43; titleName “/index”); await this.app.vault.createFolder(&#34;/notes/&#34; &#43; titleName &#43; “/images”); -%&gt; title: &lt;% qcFileName %&gt; date: &lt;% tp.file.creation_date(“YYYY-MM-DDTHH:mm:ssZ”) %&gt; draft: false tags: []">
   <meta property="og:locale" content="en_us">
-  <meta property="og:type" content="website">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="templates">
 
 
-  <meta itemprop="name" content="Templates">
+  <meta itemprop="name" content="Lelah&#39;s Blog">
+  <meta itemprop="description" content="&lt;%* function toSlug(title) { return title .toLowerCase() .normalize(“NFD”) .replace(/[\u0300-\u036f]/g, “”) .replace(/[^a-z0-9\s-]/g, “”) .trim() .replace(/\s&#43;/g, “-”); }
+let qcFileName = await tp.system.prompt(“Post Title”) let titleName = toSlug(qcFileName); await tp.file.rename (titleName); await tp.file.move(&#34;/notes/&#34; &#43; titleName “/index”); await this.app.vault.createFolder(&#34;/notes/&#34; &#43; titleName &#43; “/images”); -%&gt; title: &lt;% qcFileName %&gt; date: &lt;% tp.file.creation_date(“YYYY-MM-DDTHH:mm:ssZ”) %&gt; draft: false tags: []">
+  <meta itemprop="wordCount" content="53">
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Templates">
+  <meta name="twitter:title" content="Lelah&#39;s Blog">
+  <meta name="twitter:description" content="&lt;%* function toSlug(title) { return title .toLowerCase() .normalize(“NFD”) .replace(/[\u0300-\u036f]/g, “”) .replace(/[^a-z0-9\s-]/g, “”) .trim() .replace(/\s&#43;/g, “-”); }
+let qcFileName = await tp.system.prompt(“Post Title”) let titleName = toSlug(qcFileName); await tp.file.rename (titleName); await tp.file.move(&#34;/notes/&#34; &#43; titleName “/index”); await this.app.vault.createFolder(&#34;/notes/&#34; &#43; titleName &#43; “/images”); -%&gt; title: &lt;% qcFileName %&gt; date: &lt;% tp.file.creation_date(“YYYY-MM-DDTHH:mm:ssZ”) %&gt; draft: false tags: []">
 
-<link rel="canonical" href="https://lelahandco.github.io/templates/" /><link rel="alternate" type="application/rss&#43;xml" href="https://lelahandco.github.io/templates/index.xml" /><link rel="alternate" type="application/json" href="https://lelahandco.github.io/templates/index.json" />
+<link rel="canonical" href="https://lelahandco.github.io/templates/note-template/" />
 
       <link
         rel="stylesheet"
@@ -50,8 +60,8 @@
     "name": "Lelah van Eijnsbergen"
   },
   "copyrightNotice": "Lelah van Eijnsbergen",
-  "description": "",
-  "headline": "Templates"
+  "description": "\u003c%* function toSlug(title) { return title .toLowerCase() .normalize(“NFD”) .replace(/[\\u0300-\\u036f]/g, “”) .replace(/[^a-z0-9\\s-]/g, “”) .trim() .replace(/\\s+/g, “-”); } let qcFileName = await tp.system.prompt(“Post Title”) let titleName = toSlug(qcFileName); await tp.file.rename (titleName); await tp.file.move(\"/notes/\" + titleName “/index”); await this.app.vault.createFolder(\"/notes/\" + titleName + “/images”); -%\u003e title: \u003c% qcFileName %\u003e date: \u003c% tp.file.creation_date(“YYYY-MM-DDTHH:mm:ssZ”) %\u003e draft: false tags: [] ",
+  "headline": ""
 }
 </script>
 
@@ -85,12 +95,11 @@
 
       </header>
       <main class="prose prose-slate relative md:prose-lg prose-h1:text-[2em]" id="maincontent">
-        
-  <h1>Templates</h1>
+        <article class="main">
+    <header>
+      <h1 class="!mb-1"></h1>
+    </header>
 
-  
-  
-    <h2><a href="/templates/note-template/"></a></h2>
     <p>&lt;%*
 function toSlug(title) {
 return title
@@ -159,77 +168,8 @@ tags: []
     </a>
   
 </h3>
-  
-    <h2><a href="/templates/post-template/"></a></h2>
-    <p>&lt;%*
-function toSlug(title) {
-return title
-.toLowerCase()
-.normalize(&ldquo;NFD&rdquo;)
-.replace(/[\u0300-\u036f]/g, &ldquo;&rdquo;)
-.replace(/[^a-z0-9\s-]/g, &ldquo;&rdquo;)
-.trim()
-.replace(/\s+/g, &ldquo;-&rdquo;);
-}</p>
-<h3 id="-" class="scroll-mt-8 group">
-  let qcFileName = await tp.system.prompt(&ldquo;Post Title&rdquo;)
-let titleName = toSlug(qcFileName);
-await tp.file.rename (titleName);
-await tp.file.move(&quot;/posts/&quot; + titleName + &ldquo;/index&rdquo;);
-await this.app.vault.createFolder(&quot;/posts/&quot; + titleName + &ldquo;/images&rdquo;);
--%&gt;
-  
-    <a href="#-"
-        class="no-underline hidden opacity-50 hover:opacity-100 !text-inherit group-hover:inline-block"
-        aria-hidden="true" title="Link to this heading" tabindex="-1">
-        <svg
-  xmlns="http://www.w3.org/2000/svg"
-  width="16"
-  height="16"
-  fill="none"
-  stroke="currentColor"
-  stroke-linecap="round"
-  stroke-linejoin="round"
-  stroke-width="2"
-  class="lucide lucide-link w-4 h-4 block"
-  viewBox="0 0 24 24"
->
-  <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" />
-  <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" />
-</svg>
 
-    </a>
-  
-</h3>
-<h3 id="tags-" class="scroll-mt-8 group">
-  title: &lt;% qcFileName %&gt;
-date: &lt;% tp.file.creation_date(&ldquo;YYYY-MM-DDTHH:mm:ssZ&rdquo;) %&gt;
-draft: false
-tags: []
-  
-    <a href="#tags-"
-        class="no-underline hidden opacity-50 hover:opacity-100 !text-inherit group-hover:inline-block"
-        aria-hidden="true" title="Link to this heading" tabindex="-1">
-        <svg
-  xmlns="http://www.w3.org/2000/svg"
-  width="16"
-  height="16"
-  fill="none"
-  stroke="currentColor"
-  stroke-linecap="round"
-  stroke-linejoin="round"
-  stroke-width="2"
-  class="lucide lucide-link w-4 h-4 block"
-  viewBox="0 0 24 24"
->
-  <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" />
-  <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" />
-</svg>
-
-    </a>
-  
-</h3>
-  
+  </article>
 
       </main>
       <footer class="mt-20 border-t border-neutral-100 pt-2 text-xs">

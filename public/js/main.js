@@ -1,6 +1,6 @@
 "use strict";
 (() => {
-  // ../../../node_modules/vis-data/peer/esm/vis-data.mjs
+  // ../../node_modules/vis-data/peer/esm/vis-data.mjs
   var commonjsGlobal = typeof globalThis !== "undefined" ? globalThis : typeof window !== "undefined" ? window : typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : {};
   function getDefaultExportFromCjs(x) {
     return x && x.__esModule && Object.prototype.hasOwnProperty.call(x, "default") ? x["default"] : x;
@@ -9655,7 +9655,7 @@
   }
   console.warn("You're running a development build.");
 
-  // ../../../node_modules/vis-network/peer/esm/vis-network.mjs
+  // ../../node_modules/vis-network/peer/esm/vis-network.mjs
   var commonjsGlobal2 = typeof globalThis !== "undefined" ? globalThis : typeof window !== "undefined" ? window : typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : {};
   function getDefaultExportFromCjs2(x) {
     return x && x.__esModule && Object.prototype.hasOwnProperty.call(x, "default") ? x["default"] : x;
@@ -40502,7 +40502,7 @@
     }
   };
 
-  // ../../../node_modules/vis-network/standalone/esm/vis-network.mjs
+  // ../../node_modules/vis-network/standalone/esm/vis-network.mjs
   function styleInject(css, ref) {
     if (ref === void 0) ref = {};
     var insertAt = ref.insertAt;

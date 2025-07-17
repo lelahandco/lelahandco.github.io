@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\archetypes",
-    "\\content",
     "\\content\\notes",
-    "\\content\\posts"
+    "\\content\\posts",
+    "\\themes",
+    "\\themes\\hugo-theme-til"
   ],
   "PreviewInSolutionExplorer": false
 }

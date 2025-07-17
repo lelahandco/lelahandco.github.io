@@ -1,15 +1,39 @@
 {
   "graph": {
+    "/notes/big-test-note/": {
+      "in": [],
+      "out": [
+        "/notes/hello-world/",
+        "/notes/hello-world/"
+      ]
+    },
     "/notes/hello-world/": {
+      "in": [
+        "/notes/big-test-note/",
+        "/notes/big-test-note/"
+      ],
+      "out": []
+    },
+    "/posts/quick-post/": {
       "in": [],
       "out": []
     }
   },
   "pages": {
+    "/notes/big-test-note/": {
+      "permalink": "/notes/big-test-note/",
+      "section": "notes",
+      "title": "Big Test Note!!"
+    },
     "/notes/hello-world/": {
       "permalink": "/notes/hello-world/",
       "section": "notes",
       "title": "Hello World"
+    },
+    "/posts/quick-post/": {
+      "permalink": "/posts/quick-post/",
+      "section": "posts",
+      "title": "Quick Post"
     }
   }
 }

@@ -1,0 +1,193 @@
+<!doctype html>
+<html
+  lang="en-us"
+  dir="ltr"
+>
+  <head>
+    <meta charset="utf-8" />
+<meta name="language" content="en" />
+<meta name="viewport" content="width=device-width" />
+<title>
+     | Lelah&#39;s Blog
+</title>
+  <meta name="description" content="&lt;%* function toSlug(title) { return title .toLowerCase() .normalize(“NFD”) .replace(/[\u0300-\u036f]/g, “”) .replace(/[^a-z0-9\s-]/g, “”) .trim() .replace(/\s&#43;/g, “-”); }
+let qcFileName = await tp.system.prompt(“Post Title”) let titleName = toSlug(qcFileName); await tp.file.rename (titleName); await tp.file.move(&#34;/notes/&#34; &#43; titleName); -%&gt; title: &lt;% qcFileName %&gt; date: &lt;% tp.file.creation_date(“YYYY-MM-DDTHH:mm:ssZ”) %&gt; draft: false tags: [] " />
+<meta property="og:url" content="https://lelahandco.github.io/note-template/">
+  <meta property="og:site_name" content="Lelah&#39;s Blog">
+  <meta property="og:title" content="Lelah&#39;s Blog">
+  <meta property="og:description" content="&lt;%* function toSlug(title) { return title .toLowerCase() .normalize(“NFD”) .replace(/[\u0300-\u036f]/g, “”) .replace(/[^a-z0-9\s-]/g, “”) .trim() .replace(/\s&#43;/g, “-”); }
+let qcFileName = await tp.system.prompt(“Post Title”) let titleName = toSlug(qcFileName); await tp.file.rename (titleName); await tp.file.move(&#34;/notes/&#34; &#43; titleName); -%&gt; title: &lt;% qcFileName %&gt; date: &lt;% tp.file.creation_date(“YYYY-MM-DDTHH:mm:ssZ”) %&gt; draft: false tags: []">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+
+
+  <meta itemprop="name" content="Lelah&#39;s Blog">
+  <meta itemprop="description" content="&lt;%* function toSlug(title) { return title .toLowerCase() .normalize(“NFD”) .replace(/[\u0300-\u036f]/g, “”) .replace(/[^a-z0-9\s-]/g, “”) .trim() .replace(/\s&#43;/g, “-”); }
+let qcFileName = await tp.system.prompt(“Post Title”) let titleName = toSlug(qcFileName); await tp.file.rename (titleName); await tp.file.move(&#34;/notes/&#34; &#43; titleName); -%&gt; title: &lt;% qcFileName %&gt; date: &lt;% tp.file.creation_date(“YYYY-MM-DDTHH:mm:ssZ”) %&gt; draft: false tags: []">
+  <meta itemprop="wordCount" content="46">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Lelah&#39;s Blog">
+  <meta name="twitter:description" content="&lt;%* function toSlug(title) { return title .toLowerCase() .normalize(“NFD”) .replace(/[\u0300-\u036f]/g, “”) .replace(/[^a-z0-9\s-]/g, “”) .trim() .replace(/\s&#43;/g, “-”); }
+let qcFileName = await tp.system.prompt(“Post Title”) let titleName = toSlug(qcFileName); await tp.file.rename (titleName); await tp.file.move(&#34;/notes/&#34; &#43; titleName); -%&gt; title: &lt;% qcFileName %&gt; date: &lt;% tp.file.creation_date(“YYYY-MM-DDTHH:mm:ssZ”) %&gt; draft: false tags: []">
+
+<link rel="canonical" href="https://lelahandco.github.io/note-template/" />
+
+      <link
+        rel="stylesheet"
+        href="/css/index.min.f8a65cc8c325821f285bc0748829de9cda4cfcba962787612f5d731e4c2c3bc6.css"
+        integrity="sha256-&#43;KZcyMMlgh8oW8B0iCnenNpM/LqWJ4dhL11zHkwsO8Y="
+        crossorigin="anonymous"
+      />
+
+
+      <script
+        src="/js/main.74d7b2e03532c4d7c21ae0192f88d1d2410ae2b18acd8de20f4c186609db168b.js"
+        integrity="sha256-dNey4DUyxNfCGuAZL4jR0kEK4rGKzY3iD0wYZgnbFos="
+        crossorigin="anonymous"
+        defer
+      ></script>
+  
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "author": {
+    "@type": "Person",
+    "email": "lvanEijnsbergen@outlook.com",
+    "name": "Lelah van Eijnsbergen"
+  },
+  "copyrightNotice": "Lelah van Eijnsbergen",
+  "description": "\u003c%* function toSlug(title) { return title .toLowerCase() .normalize(“NFD”) .replace(/[\\u0300-\\u036f]/g, “”) .replace(/[^a-z0-9\\s-]/g, “”) .trim() .replace(/\\s+/g, “-”); } let qcFileName = await tp.system.prompt(“Post Title”) let titleName = toSlug(qcFileName); await tp.file.rename (titleName); await tp.file.move(\"/notes/\" + titleName); -%\u003e title: \u003c% qcFileName %\u003e date: \u003c% tp.file.creation_date(“YYYY-MM-DDTHH:mm:ssZ”) %\u003e draft: false tags: [] ",
+  "headline": ""
+}
+</script>
+
+
+  </head>
+  <body>
+    <div class="container mx-auto flex max-w-prose flex-col space-y-10 p-4 md:p-6">
+      <header class="flex flex-row items-center justify-between">
+        <div>
+  <a id="skip-nav" class="sr-only" href="#maincontent">Skip to main content</a>
+  <a class="font-semibold" href="/">Lelah&#39;s Blog</a>
+</div>
+
+  <nav>
+    <ul class="flex flex-row items-center justify-end space-x-4">
+    <li>
+      <a href="/notes/">Notes</a
+      >
+    </li>
+    <li>
+      <a href="/posts/">Posts</a
+      >
+    </li>
+    <li>
+      <a href="/graph/">Graph</a
+      >
+    </li>
+    </ul>
+  </nav>
+
+
+      </header>
+      <main class="prose prose-slate relative md:prose-lg prose-h1:text-[2em]" id="maincontent">
+        <article class="main">
+    <header>
+      <h1 class="!mb-1"></h1>
+    </header>
+
+    <p>&lt;%*
+function toSlug(title) {
+return title
+.toLowerCase()
+.normalize(&ldquo;NFD&rdquo;)
+.replace(/[\u0300-\u036f]/g, &ldquo;&rdquo;)
+.replace(/[^a-z0-9\s-]/g, &ldquo;&rdquo;)
+.trim()
+.replace(/\s+/g, &ldquo;-&rdquo;);
+}</p>
+<h3 id="-" class="scroll-mt-8 group">
+  let qcFileName = await tp.system.prompt(&ldquo;Post Title&rdquo;)
+let titleName = toSlug(qcFileName);
+await tp.file.rename (titleName);
+await tp.file.move(&quot;/notes/&quot; + titleName);
+-%&gt;
+  
+    <a href="#-"
+        class="no-underline hidden opacity-50 hover:opacity-100 !text-inherit group-hover:inline-block"
+        aria-hidden="true" title="Link to this heading" tabindex="-1">
+        <svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="16"
+  height="16"
+  fill="none"
+  stroke="currentColor"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  stroke-width="2"
+  class="lucide lucide-link w-4 h-4 block"
+  viewBox="0 0 24 24"
+>
+  <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" />
+  <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" />
+</svg>
+
+    </a>
+  
+</h3>
+<h3 id="tags-" class="scroll-mt-8 group">
+  title: &lt;% qcFileName %&gt;
+date: &lt;% tp.file.creation_date(&ldquo;YYYY-MM-DDTHH:mm:ssZ&rdquo;) %&gt;
+draft: false
+tags: []
+  
+    <a href="#tags-"
+        class="no-underline hidden opacity-50 hover:opacity-100 !text-inherit group-hover:inline-block"
+        aria-hidden="true" title="Link to this heading" tabindex="-1">
+        <svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="16"
+  height="16"
+  fill="none"
+  stroke="currentColor"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  stroke-width="2"
+  class="lucide lucide-link w-4 h-4 block"
+  viewBox="0 0 24 24"
+>
+  <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" />
+  <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" />
+</svg>
+
+    </a>
+  
+</h3>
+
+  </article>
+
+      </main>
+      <footer class="mt-20 border-t border-neutral-100 pt-2 text-xs">
+        <section class="items-top flex flex-row justify-between opacity-70">
+  <div class="flex flex-col space-y-2">
+      <p>Copyright &copy; 2025, Lelah van Eijnsbergen.</p>
+
+  </div>
+    <div>
+      <a
+        href="https://github.com/michenriksen/hugo-theme-til"
+        title="Today I Learned &#8212; A Hugo theme by Michael Henriksen"
+        data-theme-version="0.6.0"
+        >theme: til</a
+      >
+    </div>
+</section>
+
+      </footer>
+    </div>
+    
+  </body>
+</html>

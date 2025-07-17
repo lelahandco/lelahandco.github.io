@@ -9,7 +9,14 @@
     <managingEditor>lvanEijnsbergen@outlook.com (Lelah van Eijnsbergen)</managingEditor>
     <webMaster>lvanEijnsbergen@outlook.com (Lelah van Eijnsbergen)</webMaster>
     <copyright>Lelah van Eijnsbergen</copyright>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 21:27:06 +0200</lastBuildDate>
     <atom:link href="https://lelahandco.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>quick post</title>
+      <link>https://lelahandco.github.io/posts/quick-post/</link>
+      <pubDate>Thu, 17 Jul 2025 21:27:06 +0200</pubDate><author>lvanEijnsbergen@outlook.com (Lelah van Eijnsbergen)</author>
+      <guid>https://lelahandco.github.io/posts/quick-post/</guid>
+      <description>&lt;p&gt;Hi world!&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

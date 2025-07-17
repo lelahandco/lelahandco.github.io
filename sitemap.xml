@@ -2,22 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lelahandco.github.io/notes/hello-world/</loc>
-    <lastmod>2025-07-17T00:00:00+00:00</lastmod>
+    <loc>https://lelahandco.github.io/notes/big-test-note/</loc>
+    <lastmod>2025-07-17T21:42:19+02:00</lastmod>
   </url><url>
     <loc>https://lelahandco.github.io/</loc>
-    <lastmod>2025-07-17T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-17T21:42:19+02:00</lastmod>
   </url><url>
     <loc>https://lelahandco.github.io/notes/</loc>
-    <lastmod>2025-07-17T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-17T21:42:19+02:00</lastmod>
+  </url><url>
+    <loc>https://lelahandco.github.io/tags/</loc>
+    <lastmod>2025-07-17T21:42:19+02:00</lastmod>
+  </url><url>
+    <loc>https://lelahandco.github.io/tags/test/</loc>
+    <lastmod>2025-07-17T21:42:19+02:00</lastmod>
   </url><url>
     <loc>https://lelahandco.github.io/posts/</loc>
-    <lastmod>2025-07-17T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-17T21:27:06+02:00</lastmod>
+  </url><url>
+    <loc>https://lelahandco.github.io/posts/quick-post/</loc>
+    <lastmod>2025-07-17T21:27:06+02:00</lastmod>
+  </url><url>
+    <loc>https://lelahandco.github.io/notes/hello-world/</loc>
+    <lastmod>2025-07-17T21:24:02+02:00</lastmod>
+  </url><url>
+    <loc>https://lelahandco.github.io/note-template/</loc>
   </url><url>
     <loc>https://lelahandco.github.io/categories/</loc>
   </url><url>
     <loc>https://lelahandco.github.io/graph/</loc>
-  </url><url>
-    <loc>https://lelahandco.github.io/tags/</loc>
   </url>
 </urlset>

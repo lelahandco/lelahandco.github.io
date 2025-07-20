@@ -1,36 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Lelah&#39;s Blog</title>
-    <link>https://lelahandco.github.io/posts/</link>
-    <description>Recent content in Posts on Lelah&#39;s Blog</description>
+    <title>Spaces on Lelah&#39;s Blog</title>
+    <link>https://lelahandco.github.io/tags/spaces/</link>
+    <description>Recent content in Spaces on Lelah&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>lvanEijnsbergen@outlook.com (Lelah van Eijnsbergen)</managingEditor>
     <webMaster>lvanEijnsbergen@outlook.com (Lelah van Eijnsbergen)</webMaster>
     <copyright>Lelah van Eijnsbergen</copyright>
     <lastBuildDate>Sun, 20 Jul 2025 23:21:26 +0200</lastBuildDate>
-    <atom:link href="https://lelahandco.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lelahandco.github.io/tags/spaces/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shared Spaces</title>
       <link>https://lelahandco.github.io/posts/shared-spaces/</link>
       <pubDate>Sun, 20 Jul 2025 23:21:26 +0200</pubDate><author>lvanEijnsbergen@outlook.com (Lelah van Eijnsbergen)</author>
       <guid>https://lelahandco.github.io/posts/shared-spaces/</guid>
       <description>&lt;p&gt;During another algorithmically cultivated stroll around the internet I came across a &lt;a href=&#34;https://www.youtube.com/watch?v=Bdj14_jdumI&amp;amp;start=4639&#34;&gt;yt video by Pagemelt&lt;/a&gt;  that&amp;rsquo;s about algorithms and what they do to us as humans. And towards the end Pagemelt says something I feel like I profoundly relate to. It is that when i reach for something to scroll (yt, instagram, etc) that I do this most likely because I&amp;rsquo;m feeling lonely. Not the kind of lonely where i have no-one to talk to, but the one where I&amp;rsquo;d just love to be in a space with people around living their life, doing things, whatever that may be. I wonder what kind of spaces I have in my life that are like that, and if there are new shared spaces I can discover or create myself&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>slof image</title>
-      <link>https://lelahandco.github.io/posts/another-post/</link>
-      <pubDate>Thu, 17 Jul 2025 23:11:00 +0200</pubDate><author>lvanEijnsbergen@outlook.com (Lelah van Eijnsbergen)</author>
-      <guid>https://lelahandco.github.io/posts/another-post/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;images/slof.jpg&#34; alt=&#34;slof image :)&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>kaida image</title>
-      <link>https://lelahandco.github.io/posts/kaida-image/</link>
-      <pubDate>Thu, 17 Jul 2025 23:08:07 +0200</pubDate><author>lvanEijnsbergen@outlook.com (Lelah van Eijnsbergen)</author>
-      <guid>https://lelahandco.github.io/posts/kaida-image/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;images/kaida.png&#34; alt=&#34;kaida image :)&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

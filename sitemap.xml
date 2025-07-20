@@ -2,16 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lelahandco.github.io/posts/</loc>
+    <lastmod>2025-07-20T23:21:26+02:00</lastmod>
+  </url><url>
+    <loc>https://lelahandco.github.io/tags/rambling/</loc>
+    <lastmod>2025-07-20T23:21:26+02:00</lastmod>
+  </url><url>
+    <loc>https://lelahandco.github.io/posts/shared-spaces/</loc>
+    <lastmod>2025-07-20T23:21:26+02:00</lastmod>
+  </url><url>
+    <loc>https://lelahandco.github.io/tags/spaces/</loc>
+    <lastmod>2025-07-20T23:21:26+02:00</lastmod>
+  </url><url>
+    <loc>https://lelahandco.github.io/tags/</loc>
+    <lastmod>2025-07-20T23:21:26+02:00</lastmod>
+  </url><url>
+    <loc>https://lelahandco.github.io/tags/yt/</loc>
+    <lastmod>2025-07-20T23:21:26+02:00</lastmod>
+  </url><url>
     <loc>https://lelahandco.github.io/tags/cats/</loc>
     <lastmod>2025-07-17T23:11:00+02:00</lastmod>
   </url><url>
-    <loc>https://lelahandco.github.io/posts/</loc>
-    <lastmod>2025-07-17T23:11:00+02:00</lastmod>
-  </url><url>
     <loc>https://lelahandco.github.io/posts/another-post/</loc>
-    <lastmod>2025-07-17T23:11:00+02:00</lastmod>
-  </url><url>
-    <loc>https://lelahandco.github.io/tags/</loc>
     <lastmod>2025-07-17T23:11:00+02:00</lastmod>
   </url><url>
     <loc>https://lelahandco.github.io/posts/kaida-image/</loc>
@@ -34,17 +46,23 @@
   </url><url>
     <loc>https://lelahandco.github.io/code/code-upload-site/</loc>
   </url><url>
+    <loc>https://lelahandco.github.io/drafts/personal-not-lonely-spaces/</loc>
+  </url><url>
     <loc>https://lelahandco.github.io/master-reference/</loc>
   </url><url>
     <loc>https://lelahandco.github.io/templates/note-template/</loc>
   </url><url>
     <loc>https://lelahandco.github.io/templates/post-template/</loc>
   </url><url>
+    <loc>https://lelahandco.github.io/to-do/</loc>
+  </url><url>
     <loc>https://lelahandco.github.io/categories/</loc>
   </url><url>
     <loc>https://lelahandco.github.io/code/</loc>
   </url><url>
     <loc>https://lelahandco.github.io/graph/</loc>
+  </url><url>
+    <loc>https://lelahandco.github.io/drafts/</loc>
   </url><url>
     <loc>https://lelahandco.github.io/templates/</loc>
   </url>

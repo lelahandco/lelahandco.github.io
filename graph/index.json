@@ -14,11 +14,19 @@
       ],
       "out": []
     },
+    "/notes/modern-nature/": {
+      "in": [],
+      "out": []
+    },
     "/posts/another-post/": {
       "in": [],
       "out": []
     },
     "/posts/kaida-image/": {
+      "in": [],
+      "out": []
+    },
+    "/posts/play-fleetingness-and-meaning/": {
       "in": [],
       "out": []
     },
@@ -38,6 +46,11 @@
       "section": "notes",
       "title": "Hello World"
     },
+    "/notes/modern-nature/": {
+      "permalink": "/notes/modern-nature/",
+      "section": "notes",
+      "title": "Book - Modern Nature"
+    },
     "/posts/another-post/": {
       "permalink": "/posts/another-post/",
       "section": "posts",
@@ -47,6 +60,11 @@
       "permalink": "/posts/kaida-image/",
       "section": "posts",
       "title": "Kaida Image"
+    },
+    "/posts/play-fleetingness-and-meaning/": {
+      "permalink": "/posts/play-fleetingness-and-meaning/",
+      "section": "posts",
+      "title": "Play, Fleetingness and Attention"
     },
     "/posts/shared-spaces/": {
       "permalink": "/posts/shared-spaces/",

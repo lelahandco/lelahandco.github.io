@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sio on Lelah&#39;s Blog</title>
+    <link>http://localhost:1313/tags/sio/</link>
+    <description>Recent content in Sio on Lelah&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>lvanEijnsbergen@outlook.com (Lelah van Eijnsbergen)</managingEditor>
+    <webMaster>lvanEijnsbergen@outlook.com (Lelah van Eijnsbergen)</webMaster>
+    <copyright>Lelah van Eijnsbergen</copyright>
+    <lastBuildDate>Wed, 30 Jul 2025 20:14:06 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/sio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hii Sio!</title>
+      <link>http://localhost:1313/posts/hii-sio/new-sio-post/</link>
+      <pubDate>Wed, 30 Jul 2025 20:14:06 +0200</pubDate><author>lvanEijnsbergen@outlook.com (Lelah van Eijnsbergen)</author>
+      <guid>http://localhost:1313/posts/hii-sio/new-sio-post/</guid>
+      <description>&lt;p&gt;:)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -7,6 +7,10 @@
         "/notes/hello-world/"
       ]
     },
+    "/notes/grandpas-and-snails/": {
+      "in": [],
+      "out": []
+    },
     "/notes/hello-world/": {
       "in": [
         "/notes/big-test-note/",
@@ -40,6 +44,11 @@
       "permalink": "/notes/big-test-note/",
       "section": "notes",
       "title": "Big Test Note!!"
+    },
+    "/notes/grandpas-and-snails/": {
+      "permalink": "/notes/grandpas-and-snails/",
+      "section": "notes",
+      "title": "Grandpas and Snails"
     },
     "/notes/hello-world/": {
       "permalink": "/notes/hello-world/",
